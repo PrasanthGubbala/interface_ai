@@ -1,0 +1,9 @@
+Docs/
+.DS_Store
+__pycache__/
+.pytest_cache/
+results/
+.venv/
+hackathon-knowledge-kit-participant/Knowledge-Hackathon-Assignment.pdf
+hackathon-knowledge-kit-participant/snapshots/0*/
+hackathon-knowledge-kit-participant/snapshots_zip/
